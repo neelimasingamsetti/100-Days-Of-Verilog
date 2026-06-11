@@ -1,4 +1,4 @@
-module halfsubtrctor1(a,b,diff,borrow);
+module halfsubtractor1(a,b,diff,borrow);
   input a,b;
   output diff,borrow;
   
