@@ -8,5 +8,5 @@
 
 🚀 Welcome to my 100 days of Verilog journey.
     This Repository showcases my commitment to learning verilog HDL through consistent practice and hands-on implementation.
-    Over 100 days,i will be exploring digital design concepts,writing verilog code,and building projects to enhance my skills in RTL Design
+    Over 100 days,I will be exploring digital design concepts,writing verilog code,and building projects to enhance my skills in RTL Design
 
